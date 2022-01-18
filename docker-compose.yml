@@ -1,0 +1,11 @@
+version: "0.1"  
+services:
+  web:
+    build: 
+      dockerfile: Dockerfile
+      args:
+        tag: pydev
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/home

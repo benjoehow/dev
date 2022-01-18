@@ -1,0 +1,11 @@
+{
+"model": {
+    "family": "xgboost"
+    "params": {
+        "num_boost_round": 1000,
+        
+        
+    
+    }
+}
+}
