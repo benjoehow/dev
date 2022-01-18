@@ -1,1 +1,0 @@
-docker run --name pydev -v ${PWD}:/home -p 8888:8888 pydev:latest
