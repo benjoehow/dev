@@ -5,7 +5,7 @@ This git holds the neccessary code I use to set up minimal development environme
 ## Setup
 
 ## Initializing the enviornment
-[Running setup.sh](setup.sh) makes **local** and **gits** folders. The [.gitignore](.gitginore) file will prevent the contents of these folders from being commited to this git.
+[Running setup.sh](setup.sh) makes **local** and **gits** folders. The [.gitignore](.gitignore) file will prevent the contents of these folders from being commited to this git.
 - **local** is meant to hold data, scratchpad code, etc..
 - **gits** contains other repositories
 
